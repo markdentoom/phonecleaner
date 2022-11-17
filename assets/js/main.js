@@ -270,6 +270,16 @@
     })
   })
 
+  // const delay = (ms) => new Promise((res) => setTimeout(res, ms))
+
+  // // fix video height
+  // window.addEventListener("load", async () => {
+  //   console.log("Ï did the thing!")
+  //   await delay(500)
+  //   const video = window.document.querySelector(".video")
+  //   video.style.height = video.contentWindow.document.body.offsetHeight + "px"
+  // })
+
   /**
    * Initiate Pure Counter
    */

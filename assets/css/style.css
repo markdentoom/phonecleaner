@@ -664,7 +664,7 @@ section {
   font-size: 18px;
 }
 
-.products .title a {
+.products .title {
   color: #111;
 }
 
@@ -674,7 +674,7 @@ section {
   margin-bottom: 0;
 }
 
-.products .icon-box:hover .title a,
+.products .icon-box:hover .title,
 .products .icon-box:hover .description {
   color: #fff;
 }
@@ -1070,10 +1070,6 @@ section {
   max-height: 95px;
   overflow: hidden;
   transition: max-height 0.5s ease-in-out;
-}
-
-.team .member:hover .member-info {
-  max-height: 300px;
 }
 
 .team .member h4 {
