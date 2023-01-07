@@ -1,6 +1,3 @@
-Quick static website for my girlfriend's school project
+Static site I created for my girlfriend's school project. Check it out using the following URL http://deviofficial.online/
 
-Template Name: Squadfree
 Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
